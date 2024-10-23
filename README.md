@@ -1,66 +1,39 @@
-## Foundry
+Happy SVG:
+data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIHhtbG5z
+PSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPCEtLSBCYWNrZ3JvdW5kIENpcmNsZSAt
+LT4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZmFjZUdyYWRpZW50IiBjeD0iNTAl
+IiBjeT0iNTAlIiByPSI1MCUiIGZ4PSI1MCUiIGZ5PSI1MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9
+IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjogI0ZEREM4QTsgc3RvcC1vcGFjaXR5OiAxIiAvPgogICAg
+ICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiAjRkJDNjc4OyBzdG9wLW9w
+YWNpdHk6IDEiIC8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogIDwvZGVmcz4KICA8Y2lyY2xlIGN4
+PSIxMDAiIGN5PSIxMDAiIHI9IjkwIiBmaWxsPSJ1cmwoI2ZhY2VHcmFkaWVudCkiIC8+CgogIDwh
+LS0gRXllcyAtLT4KICA8ZWxsaXBzZSBjeD0iNjUiIGN5PSI4MCIgcng9IjIwIiByeT0iMTIiIGZp
+bGw9IndoaXRlIiAvPgogIDxlbGxpcHNlIGN4PSIxMzUiIGN5PSI4MCIgcng9IjIwIiByeT0iMTIi
+IGZpbGw9IndoaXRlIiAvPgoKICA8IS0tIFB1cGlscyAtLT4KICA8Y2lyY2xlIGN4PSI2NSIgY3k9
+IjgwIiByPSI3IiBmaWxsPSJibGFjayIgLz4KICA8Y2lyY2xlIGN4PSIxMzUiIGN5PSI4MCIgcj0i
+NyIgZmlsbD0iYmxhY2siIC8+CgogIDwhLS0gU3VidGxlIEV5ZWJhZ3MgLS0+CiAgPHBhdGggZD0i
+TTQ1LDkwIFE2NSwxMDAgODUsOTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Y5QUI2NCIgc3Ryb2tl
+LXdpZHRoPSIyIiAvPgogIDxwYXRoIGQ9Ik0xMTUsOTAgUTEzNSwxMDAgMTU1LDkwIiBmaWxsPSJu
+b25lIiBzdHJva2U9IiNGOUFCNjQiIHN0cm9rZS13aWR0aD0iMiIgLz4KCiAgPCEtLSBNb3V0aCAo
+SGFwcHkgYnV0IFVuY2FubnkpIC0tPgogIDxwYXRoIGQ9Ik01MCwxMzAgUTEwMCwxNzAgMTUwLDEz
+MCBRMTIwLDE1MCA1MCwxMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Q2NzQ1RSIgc3Ryb2tlLXdp
+ZHRoPSI1IiAvPgoKICA8IS0tIFN1YnRsZSBTaGFkb3dzIGZvciBSZWFsaXNtIC0tPgogIDxlbGxp
+cHNlIGN4PSIxMDAiIGN5PSIyMCIgcng9IjY1IiByeT0iMTUiIGZpbGw9InJnYmEoMCwwLDAsMC4x
+KSIgLz4KPC9zdmc+Cg==
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
-
-Foundry consists of:
-
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
-
-## Documentation
-
-https://book.getfoundry.sh/
-
-## Usage
-
-### Build
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+Sad SVG:
+data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIHhtbG5z
+PSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPCEtLSBGYWNlIE91dGxpbmUgLS0+CiAg
+PGVsbGlwc2UgY3g9IjEwMCIgY3k9IjEwMCIgcng9IjkwIiByeT0iMTAwIiBmaWxsPSIjZmZlMGJk
+IiBzdHJva2U9ImJsYWNrIiBzdHJva2Utd2lkdGg9IjIiIC8+CgogIDwhLS0gRXllcyAtLT4KICA8
+Y2lyY2xlIGN4PSI3MCIgY3k9IjgwIiByPSI4IiBmaWxsPSJibGFjayIgLz4KICA8Y2lyY2xlIGN4
+PSIxMzAiIGN5PSI4MCIgcj0iOCIgZmlsbD0iYmxhY2siIC8+CgogIDwhLS0gRXllYnJvd3MgLS0+
+CiAgPHBhdGggZD0iTTYwLDY1IFE3MCw2MCA4MCw2NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFj
+ayIgc3Ryb2tlLXdpZHRoPSIyIiAvPgogIDxwYXRoIGQ9Ik0xMjAsNjUgUTEzMCw2MCAxNDAsNjUi
+IGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIHN0cm9rZS13aWR0aD0iMiIgLz4KCiAgPCEtLSBN
+b3V0aCAoU2FkIGV4cHJlc3Npb24pIC0tPgogIDxwYXRoIGQ9Ik03MCwxNDAgUTEwMCwxMzAgMTMw
+LDE0MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIyIiAvPgoKICA8
+IS0tIEZvcmVoZWFkIFdyaW5rbGVzIChDb3JyZWN0IHBsYWNlbWVudCkgLS0+CiAgPHBhdGggZD0i
+TTY1LDUwIFExMDAsNDUgMTM1LDUwIiBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBzdHJva2Ut
+d2lkdGg9IjEiIC8+CiAgPHBhdGggZD0iTTcwLDU1IFExMDAsNTAgMTMwLDU1IiBmaWxsPSJub25l
+IiBzdHJva2U9ImJsYWNrIiBzdHJva2Utd2lkdGg9IjEiIC8+Cjwvc3ZnPgo=

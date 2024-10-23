@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Face Outline -->
+  <ellipse cx="100" cy="100" rx="90" ry="100" fill="#ffe0bd" stroke="black" stroke-width="2" />
+
+  <!-- Eyes -->
+  <circle cx="70" cy="80" r="8" fill="black" />
+  <circle cx="130" cy="80" r="8" fill="black" />
+
+  <!-- Eyebrows -->
+  <path d="M60,65 Q70,60 80,65" fill="none" stroke="black" stroke-width="2" />
+  <path d="M120,65 Q130,60 140,65" fill="none" stroke="black" stroke-width="2" />
+
+  <!-- Mouth (Sad expression) -->
+  <path d="M70,140 Q100,130 130,140" fill="none" stroke="black" stroke-width="2" />
+
+  <!-- Forehead Wrinkles (Correct placement) -->
+  <path d="M65,50 Q100,45 135,50" fill="none" stroke="black" stroke-width="1" />
+  <path d="M70,55 Q100,50 130,55" fill="none" stroke="black" stroke-width="1" />
+</svg>

@@ -1,0 +1,28 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <defs>
+    <radialGradient id="faceGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" style="stop-color: #FDDC8A; stop-opacity: 1" />
+      <stop offset="100%" style="stop-color: #FBC678; stop-opacity: 1" />
+    </radialGradient>
+  </defs>
+  <circle cx="100" cy="100" r="90" fill="url(#faceGradient)" />
+
+  <!-- Eyes -->
+  <ellipse cx="65" cy="80" rx="20" ry="12" fill="white" />
+  <ellipse cx="135" cy="80" rx="20" ry="12" fill="white" />
+
+  <!-- Pupils -->
+  <circle cx="65" cy="80" r="7" fill="black" />
+  <circle cx="135" cy="80" r="7" fill="black" />
+
+  <!-- Subtle Eyebags -->
+  <path d="M45,90 Q65,100 85,90" fill="none" stroke="#F9AB64" stroke-width="2" />
+  <path d="M115,90 Q135,100 155,90" fill="none" stroke="#F9AB64" stroke-width="2" />
+
+  <!-- Mouth (Happy but Uncanny) -->
+  <path d="M50,130 Q100,170 150,130 Q120,150 50,130" fill="none" stroke="#D6745E" stroke-width="5" />
+
+  <!-- Subtle Shadows for Realism -->
+  <ellipse cx="100" cy="20" rx="65" ry="15" fill="rgba(0,0,0,0.1)" />
+</svg>
