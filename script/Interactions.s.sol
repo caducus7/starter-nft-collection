@@ -20,4 +20,6 @@ contract Interactions is Script {
         BasicNft(contractAddress).mintNft(DOG_URI);
         vm.stopBroadcast();
     }
+
+    function MintMoodNft() public {}
 }
